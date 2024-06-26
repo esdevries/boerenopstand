@@ -1,0 +1,2 @@
+Toen ik achttien jaar was, woonde ik met mijn ouders op deze boerderij. #speaker:Opa #portrait:opa
+Op een dag ontvingen wij een brief met een uitnodiging om te komen stemmen over de ruilverkaveling. #speaker:Opa #portrait:opa

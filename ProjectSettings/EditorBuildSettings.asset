@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu2.unity
+    guid: fca067b176b1fb045ac602a277e19786
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 29ba78e983eaf9e4c9aa16878524141e
+  - enabled: 1
+    path: Assets/Scenes/scene01.unity
+    guid: 7241e6fdb79bd40409eda09c4b2cfae5
+  - enabled: 1
+    path: Assets/Scenes/scene 2.unity
+    guid: e832ce2cf5308f14d8ad3b0cca002189
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/scene 3.unity
+    guid: 7bc227543b0e3d847bb0f193104642d1
+  - enabled: 1
+    path: Assets/Scenes/scene 4.unity
+    guid: e419fbdc4624f5e44b8eb28e7a7c0014
+  - enabled: 1
+    path: Assets/Scenes/scene 5.unity
+    guid: d8bd1f4576b73444d89de34e095cbb3d
+  - enabled: 1
+    path: Assets/Scenes/scene 6.unity
+    guid: 9825cbc4791bc4940992764720700577
+  - enabled: 1
+    path: Assets/Scenes/scene 7.unity
+    guid: 8b1f3b864c202e84d84d64db2d25e65a
+  - enabled: 1
+    path: Assets/Scenes/scene 8.unity
+    guid: 91a61c72fae201e4f87995418c6fe4e8
+  - enabled: 1
+    path: Assets/Scenes/sceneopties.unity
+    guid: 51be04a4d46529a40a6d28b0d94c4aae
+  - enabled: 1
+    path: Assets/Scenes/scene 3.3.unity
+    guid: 4d65057135a0c1a45a377c1112dcda89
+  - enabled: 1
+    path: Assets/Scenes/scene 3.4.unity
+    guid: 5503d951ee377534398530a75a3c3fda
+  - enabled: 1
+    path: Assets/Scenes/scene 4.1.unity
+    guid: 1912553cee1733d489416aaf6b04502d
+  - enabled: 1
+    path: Assets/Scenes/scene 4.2.unity
+    guid: 2730cf75d458ac148a2c1fd54d2d824f
+  - enabled: 1
+    path: Assets/Scenes/scene 4.4.unity
+    guid: 00e84401b9aee4c4fbbd460fc67aaec9
+  - enabled: 1
+    path: Assets/Scenes/scene 4.3.unity
+    guid: ff87ca6691a9ca642a4680e5bd0a360a
+  - enabled: 1
+    path: Assets/Scenes/4.2a.unity
+    guid: 31ae9b1e813952d4a9a82f8128ece790
+  - enabled: 1
+    path: Assets/Scenes/uitlegscene.unity
+    guid: 4ce3b6f06d6ba0349af618abd8a3bf81
+  m_configObjects: {}

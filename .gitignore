@@ -1,0 +1,38 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+
+# Asset meta data should only be excluded if you ignore the corresponding asset in the Assets folder.
+#*.pidb.meta
+#*.pdb.meta
+
+# User-specific files
+*.pidb
+*.pidb
+*.pdb
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.blend@
+*.dae@
+*.fbx@
+*.lxo@
+*.ma@
+*.obj@
+*.skp@
+*.stl@
+*.mb@
+
+# Mono auto generated files
+mono_crash.*

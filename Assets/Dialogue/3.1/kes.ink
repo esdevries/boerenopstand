@@ -1,0 +1,2 @@
+Moin Kees, wat do ie hier? #speaker: Opa  #portrait:jopa #layout:right
+Gait wie mut goan, het lup hier helemoal oet de kloawn. Ze schopt trammelant bie het stemlokaal.  #speaker: Kees  #portrait:kees #layout:right
