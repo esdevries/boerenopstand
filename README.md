@@ -1,4 +1,4 @@
-# [Boerenopstand](https://boerenopstand.itch.io/boerenopstand)
+# Boerenopstand
 
 ## About the Project
 
