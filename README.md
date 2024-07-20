@@ -6,8 +6,8 @@ This repository contains the source code for [boerenopstand](https://boerenopsta
 
 
 ## How to Play
-The game is playable in the browser via itch.io [here](https://boerenopstand.itch.io/boerenopstand).  
-**WARNING: The game is in [Dutch](https://en.wikipedia.org/wiki/Dutch_language)**
+**WARNING: The game is in [Dutch](https://en.wikipedia.org/wiki/Dutch_language)**  
+The game is playable in the browser via itch.io [here](https://boerenopstand.itch.io/boerenopstand).
 
 ### Controls
 
