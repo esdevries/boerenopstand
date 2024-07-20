@@ -24,8 +24,8 @@ The game is playable in the browser via itch.io [here](https://boerenopstand.itc
 
 
 ## Some neato pictures
-![ss1](https://imgur.com/ez1ODpV)
-![ss2](https://imgur.com/56yWwX2)
-![ss3](https://imgur.com/q4dRbnK)
-![ss4](https://imgur.com/sfVLE9O)
-![ss5](https://imgur.com/z6jnYOz)
+![ss1](https://i.imgur.com/ez1ODpV.jpg)
+![ss2](https://i.imgur.com/56yWwX2.jpg)
+![ss3](https://imgur.com/q4dRbnK.jpg)
+![ss4](https://imgur.com/sfVLE9O.jpg)
+![ss5](https://imgur.com/z6jnYOz.png)
